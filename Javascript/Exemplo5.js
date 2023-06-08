@@ -3,8 +3,7 @@ let Nota2 = 9;
 let Nota3 = 8;
 let Nota4 = 7;
 
-let Soma = (parseFloat(Nota1) + parseFloat(Nota2) + parseFloat(Nota3) + parseFloat
-    (Nota4));
+let Soma = (parseFloat(Nota1)+parseFloat(Nota2)+parseFloat(Nota3)+parseFloat(Nota4));
 let Media = Soma / 4;
 
 console.log("Sua média é: " + Media);

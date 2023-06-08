@@ -5,7 +5,7 @@ let nome = "Alex Fernando";
 let sobrenome = " Egidio";
 let idade = 31;
 
-function exemplo(nome, sobrenome) {
+function exemplo(nome,sobrenome) {
     total = ((produtos * quantidade) * 5);
     console.log(total);
 
@@ -18,4 +18,4 @@ function exemplo(nome, sobrenome) {
         console.log(sobrenome);
     }
 }
-exemplo(nome, sobrenome);
+exemplo(nome,sobrenome);
