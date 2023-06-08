@@ -1,2 +1,2 @@
 
-                Conceitos básicos das linguagens JavaScript e Java.
+                Exercícios iniciais nas linguagens JavaScript e Java.
