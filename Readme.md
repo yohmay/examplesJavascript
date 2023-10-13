@@ -1,2 +1,2 @@
 
-                Exercícios iniciais nas linguagens JavaScript e Java.
+    This is a repository that contains some simple JavaScript examples that demonstrate some of the initial concept.
